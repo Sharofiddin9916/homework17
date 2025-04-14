@@ -16,7 +16,7 @@ function Navbar() {
         <NavbarWrapper className='container'>
             <TopInfoWrapper>
                 <MenuItems>
-                    <Link to="/" className='link'>О компании</Link>
+                    <Link to="/" className='link'> компании</Link>
                     <Link className='link'>Доставка и оплата</Link>
                     <Link className='link'>Возврат</Link>
                     <Link className='link'>Гарантии</Link>
